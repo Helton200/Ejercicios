@@ -25,9 +25,7 @@ namespace Ej3
 
             //Mostrar en pantalla el tiempo
             Console
-                .WriteLine("El tiempo promedio para llegar a su destino es de: " +
-                promedio +
-                " hs");
+                .WriteLine("El tiempo promedio para llegar a su destino es de: " + promedio + " hs");
         }
     }
 }
