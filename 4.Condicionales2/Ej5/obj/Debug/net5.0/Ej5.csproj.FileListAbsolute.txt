@@ -1,0 +1,16 @@
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\Ej5.exe
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\Ej5.deps.json
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\Ej5.runtimeconfig.json
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\Ej5.runtimeconfig.dev.json
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\Ej5.dll
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\ref\Ej5.dll
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\bin\Debug\net5.0\Ej5.pdb
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.csproj.AssemblyReference.cache
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.AssemblyInfoInputs.cache
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.AssemblyInfo.cs
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.csproj.CoreCompileInputs.cache
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.dll
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\ref\Ej5.dll
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.pdb
+C:\Users\Helton\Desktop\Cursos\Maxi\2.0\Ejercicios\4.Condicionales2\Ej5\obj\Debug\net5.0\Ej5.genruntimeconfig.cache
